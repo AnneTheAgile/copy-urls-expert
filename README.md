@@ -20,6 +20,8 @@ Author, my hero for this addin, last posted 2013.11 on Firefox addins page [1], 
 
 So here is its 'about' info;
 
+Github Issues; 
+https://github.com/kashiif/copy-urls-expert/issues
 
 About this Add-on
 Overview
